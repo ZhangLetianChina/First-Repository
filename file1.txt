@@ -1,3 +1,4 @@
 already changed
 changed again
 file change to perform a git pull
+Test for 3 way merge
